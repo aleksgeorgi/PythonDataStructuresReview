@@ -35,16 +35,16 @@ String Basics
 
 - Concatenation: Combining strings together (str1 + str2).
 - Slicing: Extracting a part of a string (str[1:5]).
-- Indexing: Accessing individual characters (str[index]).
+- Indexing: Accessing individual characters (str[index]).  
   String Methods
 - replace(): Replacing a substring within a string.
 - split(): Splitting a string into a list of substrings based on a delimiter.
 - join(): Joining a list of strings into a single string with a separator.
 - strip(), rstrip(), lstrip(): Removing whitespaces or specified characters from the start and/or end of a string.
-- upper(), lower(), capitalize(), title(): Changing the case of a string.
+- upper(), lower(), capitalize(), title(): Changing the case of a string.  
   String Formatting
 - String Interpolation: Using f-strings (formatted string literals) or str.format().
-- Old-style Formatting: Using % operator.
+- Old-style Formatting: Using % operator.  
   Searching and Substrings
 - find()/index(): Finding the position of a substring.
 - count(): Counting occurrences of a substring.
